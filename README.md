@@ -1,2 +1,2 @@
 # BeABuddha
-How to become a Buddha
+This ia a game to instruct you how to become a buddha. The game first will first to find yourself, who are you and where are you from and finally where to go. To simulate the real life you will see what your are doing in the real world in the game. So according to the action you made in the game, you will know next stop will be logically to some place you never know. But finally you will find your path to become a buddha.
